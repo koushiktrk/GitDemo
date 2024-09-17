@@ -31,6 +31,13 @@ public class day3 {
 		System.out.println("Mobile Login");
 
 	}
+	
+	@Test
+	public void MobileLeogin() {
+
+		System.out.println("Mobile Login");
+
+	}
 
 	@Test(dataProvider="getData")
 	public void MobileLogout(String username, String password) {
