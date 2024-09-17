@@ -27,5 +27,18 @@ public class day4 {
 		System.out.println("ApiLoginHome");
 
 	}
+	
+	@Test
+	public void LoginApi2() {
 
+		System.out.println("ApiLoginHome");
+
+	}
+	
+	@Test
+	public void LoginApi3() {
+
+		System.out.println("ApiLoginHome");
+
+	}
 }
